@@ -6,3 +6,7 @@ Desde cedo, sempre tive um olhar atento para o funcionamento das coisas – não
 Foi essa inquietação que me levou a trilhar um novo caminho: me tornei estudante de Análise e Desenvolvimento de Sistemas pela Uniasselvi e estou me especializando como Desenvolvedor Back-End Java pela EBAC – Escola Britânica de Artes Criativas e Tecnologia.
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wellingtonadonai&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
+### Projetos
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=wellingtonadonai&repo=.github.io&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
