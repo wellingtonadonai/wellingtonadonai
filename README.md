@@ -9,13 +9,13 @@ Foi essa inquietação que me levou a trilhar um novo caminho: me tornei estudan
 
 ### Projetos
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=wellingtonadonai&repo=dscatalogSpring&theme=dark)](https://github.com/wellingtonadonai/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=wellingtonadonai&repo=dscatalogSpring&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=wellingtonadonai&repo=projetoDsList&theme=dark)](https://github.com/wellingtonadonai/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=wellingtonadonai&repo=projetoDsList&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Linguagens utilizadas
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wellingtonadonai&layout=compact)](https://github.com/wellingtonadonai/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wellingtonadonai&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Contatos
 
