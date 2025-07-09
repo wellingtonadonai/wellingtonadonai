@@ -17,6 +17,9 @@ Foi essa inquietação que me levou a trilhar um novo caminho: me tornei estudan
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=wellingtonadonai&repo=SistemadeValidacao-ProcessoSeletivo&theme=dark)](https://github.com/wellingtonadonai/SistemadeValidacao-ProcessoSeletivo)
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=wellingtonadonai&repo=Jogo-Ping-Pong&theme=dark)](https://github.com/wellingtonadonai/Jogo-Ping-Pong)
+
+
 ### Linguagens utilizadas
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wellingtonadonai&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
