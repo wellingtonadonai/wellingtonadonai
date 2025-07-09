@@ -29,5 +29,5 @@ Profissional com perfil analítico e proativo, sempre motivado por entender e ot
 
 [<img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white' alt='Linkedin' height='30'>](https://www.linkedin.com/in/wellingtonoliveira-dev/)
 
-[<img src='https://img.shields.io/badge/Whatsapp-0077B5?style=for-the-badge&logo=linkedin&logoColor=green' alt='Linkedin' height='30'>](https://www.linkedin.com/in/wellingtonoliveira-dev/)
+[<img src='https://img.shields.io/badge/Whatsapp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white' alt='Whatsapp' height='30'>](https://wa.me/5517992845056)
 
