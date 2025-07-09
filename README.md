@@ -13,6 +13,8 @@ Foi essa inquietação que me levou a trilhar um novo caminho: me tornei estudan
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=wellingtonadonai&repo=projetoDsList&theme=dark)](https://github.com/wellingtonadonai/projetoDsList)
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=wellingtonadonai&repo=projetoDsList&theme=dark)](https://github.com/wellingtonadonai/projetoDsList)
+
 ### Linguagens utilizadas
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wellingtonadonai&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
