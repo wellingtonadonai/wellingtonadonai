@@ -2,8 +2,7 @@
 
 
 ###### Sobre o Wellington!
-Desde cedo, sempre tive um olhar atento para o funcionamento das coisas – não apenas no mundo físico, mas principalmente no digital. Mesmo atuando em funções operacionais e administrativas, minha curiosidade me impulsionava a entender sistemas, automatizar tarefas simples com planilhas e explorar o mundo da tecnologia no tempo livre.
-Foi essa inquietação que me levou a trilhar um novo caminho: me tornei estudante de Análise e Desenvolvimento de Sistemas pela Uniasselvi e estou me especializando como Desenvolvedor Back-End Java pela EBAC – Escola Britânica de Artes Criativas e Tecnologia.
+Profissional com perfil analítico e proativo, sempre motivado por entender e otimizar processos. Com experiência em rotinas administrativas, desenvolvi interesse por tecnologia, o que me levou a iniciar a graduação em Análise e Desenvolvimento de Sistemas (Uniasselvi) e especialização em Desenvolvimento Back-End com foco em Java (EBAC).
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wellingtonadonai&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
@@ -18,6 +17,8 @@ Foi essa inquietação que me levou a trilhar um novo caminho: me tornei estudan
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=wellingtonadonai&repo=SistemadeValidacao-ProcessoSeletivo&theme=dark)](https://github.com/wellingtonadonai/SistemadeValidacao-ProcessoSeletivo)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=wellingtonadonai&repo=Jogo-Ping-Pong&theme=dark)](https://github.com/wellingtonadonai/Jogo-Ping-Pong)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=wellingtonadonai&repo=pedra-papel-tesoura&theme=dark)](https://github.com/wellingtonadonai/pedra-papel-tesoura)
 
 
 ### Linguagens utilizadas
