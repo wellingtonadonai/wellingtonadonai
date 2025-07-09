@@ -9,6 +9,14 @@ Profissional com perfil analítico e proativo, sempre motivado por entender e ot
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wellingtonadonai&show_icons=true&theme=dark)](https://github.com/wellingtonadonai?tab=repositories)
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wellingtonadonai&show_icons=true&theme=dark)](https://github.com/wellingtonadonai?tab=repositories)
+
+### 🚀 Tecnologias que eu uso
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+
 ### Projetos
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=wellingtonadonai&repo=dscatalogSpring&theme=dark)](https://github.com/wellingtonadonai/dscatalogSpring) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=wellingtonadonai&repo=projetoDsList&theme=dark)](https://github.com/wellingtonadonai/projetoDsList)
