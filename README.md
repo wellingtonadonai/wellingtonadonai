@@ -13,7 +13,9 @@ Foi essa inquietação que me levou a trilhar um novo caminho: me tornei estudan
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=wellingtonadonai&repo=projetoDsList&theme=dark)](https://github.com/wellingtonadonai/projetoDsList)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=wellingtonadonai&repo=projetoDsList&theme=dark)](https://github.com/wellingtonadonai/projetoDsList)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=wellingtonadonai&repo=SimulacaodeContaBancaria-Java&theme=dark)](https://github.com/wellingtonadonai/SimulacaodeContaBancaria-Java)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=wellingtonadonai&repo=SistemadeValidacao-ProcessoSeletivo&theme=dark)](https://github.com/wellingtonadonai/SistemadeValidacao-ProcessoSeletivo)
 
 ### Linguagens utilizadas
 
