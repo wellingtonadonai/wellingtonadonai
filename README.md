@@ -7,7 +7,7 @@ Profissional com perfil analítico e proativo, sempre motivado por entender e ot
 
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wellingtonadonai&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wellingtonadonai&show_icons=true&theme=dark)](https://github.com/wellingtonadonai?tab=repositories)
 
 ### Projetos
 
