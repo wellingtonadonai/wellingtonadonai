@@ -26,7 +26,7 @@ Profissional com perfil analítico e proativo, sempre motivado por entender e ot
 
 
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=wellingtonadonai&repo=SimulacaodeContaBancaria-Java&theme=dark)](https://github.com/wellingtonadonai/SimulacaodeContaBancaria-Java)[[API RESTful construída com Spring Boot e Java, utilizando boas práticas de arquitetura, versionamento de endpoints e organização em camadas. Este projeto serve como base para o desenvolvimento de microsserviços ou sistemas REST escaláveis.]](https://github-readme-stats.vercel.app/api/pin/?username=wellingtonadonai&repo=Rest-with-spring-boot-and-java&theme=dark)](https://github.com/wellingtonadonai/Rest-with-spring-boot-and-java)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=wellingtonadonai&repo=SimulacaodeContaBancaria-Java&theme=dark)](https://github.com/wellingtonadonai/SimulacaodeContaBancaria-Java)[[API RESTful construída com Spring Boot e Java, utilizando boas práticas de arquitetura, versionamento de endpoints e organização em camadas. Este projeto serve como base para o desenvolvimento de microsserviços ou sistemas REST escaláveis.](https://github-readme-stats.vercel.app/api/pin/?username=wellingtonadonai&repo=Rest-with-spring-boot-and-java&theme=dark)](https://github.com/wellingtonadonai/Rest-with-spring-boot-and-java)
 
 
 
