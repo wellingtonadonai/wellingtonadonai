@@ -30,7 +30,7 @@
 #### 🟢 **APIs e Microsserviços (Java & Spring Boot)**
 
 [![usuario](https://github-readme-stats.vercel.app/api/pin/?username=wellingtonadonai&repo=usuario&theme=dark)](https://github.com/wellingtonadonai/usuario)
-
+[![dscatalogSpring](https://github-readme-stats.vercel.app/api/pin/?username=wellingtonadonai\&repo=dscatalogSpring\&theme=dark)](https://github.com/wellingtonadonai/dscatalogSpring)
 
 
 #### 🧩 **Projetos de Lógica e Estudos Java**
