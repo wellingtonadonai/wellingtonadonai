@@ -35,7 +35,7 @@ Profissional com perfil analítico e proativo, sempre motivado por entender e ot
 
 
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=wellingtonadonai&repo=usuario&theme=dark)](https://github.com/wellingtonadonai/usuario)[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=wellingtonadonai&repo=microsservicosUsuario&theme=dark)](https://github.com/wellingtonadonai/usuario)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=wellingtonadonai&repo=usuario&theme=dark)](https://github.com/wellingtonadonai/usuario)[![API RESTful construída com Spring Boot e Java , utilizando boas práticas de arquitetura, versionamento de endpoints e organização em camadas. Este projeto esta sendo desenvolvido em microsserviços ou sistemas REST escaláveis.](https://github-readme-stats.vercel.app/api/pin/?username=wellingtonadonai&repo=microsservicosUsuario&theme=dark)](https://github.com/wellingtonadonai/usuario)
 
 
 
