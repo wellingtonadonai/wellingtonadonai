@@ -29,10 +29,8 @@
 
 #### 🟢 **APIs e Microsserviços (Java & Spring Boot)**
 
-[![dscatalogSpring](https://github-readme-stats.vercel.app/api/pin/?username=wellingtonadonai\&repo=dscatalogSpring\&theme=dark)](https://github.com/wellingtonadonai/dscatalogSpring)
-[![projetoDsList](https://github-readme-stats.vercel.app/api/pin/?username=wellingtonadonai\&repo=projetoDsList\&theme=dark)](https://github.com/wellingtonadonai/projetoDsList)
-[![Rest API](https://github-readme-stats.vercel.app/api/pin/?username=wellingtonadonai\&repo=Rest-with-spring-boot-and-java\&theme=dark)](https://github.com/wellingtonadonai/Rest-with-spring-boot-and-java)
-[![Microsserviços Usuário](https://github-readme-stats.vercel.app/api/pin/?username=wellingtonadonai\&repo=microsservicosUsuario\&theme=dark)](https://github.com/wellingtonadonai/microsservicosUsuario)
+[![usuario](https://github-readme-stats.vercel.app/api/pin/?username=wellingtonadonai\usuario\&theme=dark)](https://github.com/wellingtonadonai/usuario)
+
 
 #### 🧩 **Projetos de Lógica e Estudos Java**
 
