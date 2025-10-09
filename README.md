@@ -1,6 +1,6 @@
 # 👋 Olá! Eu sou **Wellington Oliveira**
 
-🎯 **Desenvolvedor Back-End Java** apaixonado por criar APIs, microsserviços e soluções escaláveis. Em transição de carreira, encontrei na tecnologia o caminho para transformar ideias em código. Atualmente, curso **Análise e Desenvolvimento de Sistemas (Uniasselvi)** e me especializo em **Java com Spring Boot (EBAC)**.
+🎯 **Desenvolvedor Back-End Java** apaixonado por criar APIs, com familiaridade em microsserviços e soluções escaláveis. Em transição de carreira, encontrei na tecnologia o caminho para transformar ideias em código. Atualmente, curso **Análise e Desenvolvimento de Sistemas (Uniasselvi)** e me especializo em **Java com Spring Boot (EBAC)**.
 
 ---
 
