@@ -25,27 +25,45 @@
 
 ---
 
-### 🧪 Projetos em Destaque
+## 🧪 Projetos em Destaque
 
-#### 🟢 **APIs e Microsserviços (Java & Spring Boot)**
+<div align="center">
 
-[![usuario](https://github-readme-stats.vercel.app/api/pin/?username=wellingtonadonai&repo=usuario&theme=dark)](https://github.com/wellingtonadonai/usuario)
-[![dscatalogSpring](https://github-readme-stats.vercel.app/api/pin/?username=wellingtonadonai\&repo=dscatalogSpring\&theme=dark)](https://github.com/wellingtonadonai/dscatalogSpring)
+### 🟢 APIs e Microsserviços (Java & Spring Boot)
 
+<a href="https://github.com/wellingtonadonai/usuario">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=wellingtonadonai&repo=usuario&theme=radical&border_color=4CAF50&border_radius=10" />
+</a>
+<a href="https://github.com/wellingtonadonai/dscatalogSpring">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=wellingtonadonai&repo=dscatalogSpring&theme=radical&border_color=4CAF50&border_radius=10" />
+</a>
 
-#### 🧩 **Projetos de Lógica e Estudos Java**
+---
 
-[![Simulação Bancária](https://github-readme-stats.vercel.app/api/pin/?username=wellingtonadonai\&repo=SimulacaodeContaBancaria-Java\&theme=dark)](https://github.com/wellingtonadonai/SimulacaodeContaBancaria-Java)
-[![Validação de Dados](https://github-readme-stats.vercel.app/api/pin/?username=wellingtonadonai\&repo=SistemadeValidacao-ProcessoSeletivo\&theme=dark)](https://github.com/wellingtonadonai/SistemadeValidacao-ProcessoSeletivo)
-[![Jogo Ping Pong](https://github-readme-stats.vercel.app/api/pin/?username=wellingtonadonai\&repo=Jogo-Ping-Pong\&theme=dark)](https://github.com/wellingtonadonai/Jogo-Ping-Pong)
+### 🧩 Projetos de Lógica e Estudos Java
+
+<a href="https://github.com/wellingtonadonai/SimulacaodeContaBancaria-Java">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=wellingtonadonai&repo=SimulacaodeContaBancaria-Java&theme=tokyonight&border_color=00BFFF&border_radius=10" />
+</a>
+<a href="https://github.com/wellingtonadonai/SistemadeValidacao-ProcessoSeletivo">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=wellingtonadonai&repo=SistemadeValidacao-ProcessoSeletivo&theme=tokyonight&border_color=00BFFF&border_radius=10" />
+</a>
+<a href="https://github.com/wellingtonadonai/Jogo-Ping-Pong">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=wellingtonadonai&repo=Jogo-Ping-Pong&theme=tokyonight&border_color=00BFFF&border_radius=10" />
+</a>
+
+</div>
 
 ---
 
-### 🛠️ Objetivo Profissional
+## 🛠️ Objetivo Profissional
 
-📌 Busco oportunidades como **Desenvolvedor Back-End Java** para evoluir em arquitetura de microsserviços, boas práticas (Clean Code, SOLID) e entrega de soluções escaláveis.
+🎯 **Desenvolvedor Back-End Java** focado em criar APIs REST escaláveis com **Spring Boot**, aplicando princípios de **Clean Code, SOLID e arquitetura de microsserviços**.
+
+🚀 Busco oportunidades para **evoluir em projetos desafiadores**, contribuindo com código de qualidade e boas práticas de engenharia de software.
 
 ---
+
 
 ### 📬 Contato
 
