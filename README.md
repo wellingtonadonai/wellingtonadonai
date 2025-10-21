@@ -1,12 +1,103 @@
-<h1 align="center">👋 Olá! Eu sou <strong>Wellington Oliveira</strong></h1>
+<!--
+Banner / Header SVG + HTML for GitHub README
+Save as `banner.svg` or `banner.html` and upload to your repository (e.g. in assets/).
+Usage in README.md:
 
-<p align="center">
-  🎯 <strong>Desenvolvedor Back-End Java</strong> apaixonado por criar APIs REST e microsserviços escaláveis.<br>
-  💻 Em transição de carreira, encontrei na tecnologia o caminho para transformar ideias em código.<br>
-  🎓 Cursando <strong>Análise e Desenvolvimento de Sistemas (Uniasselvi)</strong> e especializando-me em <strong>Java com Spring Boot (EBAC)</strong>.
-</p>
+```md
+![Banner](assets/banner.svg)
+```
 
----
+Dimensions: 1200x320 (adjustable)
+Colors: dark navy -> teal gradient, accents in green
+Font: system (fallback), uses SVG styling so it will render on GitHub
+-->
+
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>Banner - Wellington Oliveira</title>
+</head>
+<body>
+<!-- SVG banner (1200x320) -->
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320">
+  <defs>
+    <linearGradient id="g1" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0%" stop-color="#0f1724" />
+      <stop offset="55%" stop-color="#072F2F" />
+      <stop offset="100%" stop-color="#004E66" />
+    </linearGradient>
+    <filter id="softShadow" x="-50%" y="-50%" width="200%" height="200%">
+      <feDropShadow dx="0" dy="8" stdDeviation="18" flood-color="#000" flood-opacity="0.45" />
+    </filter>
+  </defs>
+
+  <!-- background -->
+  <rect width="1200" height="320" rx="16" fill="url(#g1)" />
+
+  <!-- left accent shape -->
+  <path d="M0 0 L420 0 C520 0 480 160 420 320 L0 320 Z" fill="#001F27" opacity="0.12" />
+
+  <!-- subtle grid lines -->
+  <g opacity="0.06" stroke="#ffffff" stroke-width="1">
+    <line x1="200" y1="20" x2="200" y2="300" />
+    <line x1="240" y1="20" x2="240" y2="300" />
+    <line x1="280" y1="20" x2="280" y2="300" />
+  </g>
+
+  <!-- Text: Name -->
+  <g transform="translate(60,70)">
+    <text x="0" y="0" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial" font-size="40" font-weight="700" fill="#ffffff">Wellington Oliveira</text>
+    <text x="0" y="52" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial" font-size="18" fill="#B9E5D4">Desenvolvedor Back-End Java • Spring Boot • Microsserviços</text>
+
+    <!-- tagline -->
+    <text x="0" y="92" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial" font-size="14" fill="#9FCFD6">Transformando ideias em APIs escaláveis e código com qualidade</text>
+
+    <!-- CTAs / chips -->
+    <g transform="translate(0,118)">
+      <rect x="0" y="0" rx="8" ry="8" width="170" height="34" fill="#052A26" stroke="#14B8A6" />
+      <text x="22" y="22" font-size="12" fill="#14B8A6">Java • Spring Boot</text>
+
+      <rect x="190" y="0" rx="8" ry="8" width="160" height="34" fill="#052A26" stroke="#60A5FA" />
+      <text x="210" y="22" font-size="12" fill="#60A5FA">APIs • Microsserviços</text>
+
+      <rect x="370" y="0" rx="8" ry="8" width="150" height="34" fill="#052A26" stroke="#10B981" />
+      <text x="392" y="22" font-size="12" fill="#10B981">CI/CD • Docker</text>
+    </g>
+  </g>
+
+  <!-- Right: tech icons (stylized) -->
+  <g transform="translate(820,40)">
+    <!-- Java cup (stylized) -->
+    <g transform="translate(0,0)">
+      <rect x="0" y="0" width="96" height="96" rx="12" fill="#021926" opacity="0.25" />
+      <text x="48" y="56" font-size="18" text-anchor="middle" fill="#F7DF1E" font-family="monospace">☕</text>
+      <text x="48" y="86" font-size="10" text-anchor="middle" fill="#BDEDE3">Java</text>
+    </g>
+
+    <!-- Spring leaf -->
+    <g transform="translate(120,0)">
+      <rect x="0" y="0" width="96" height="96" rx="12" fill="#021926" opacity="0.22" />
+      <text x="48" y="56" font-size="22" text-anchor="middle" fill="#6EE7B7">🌿</text>
+      <text x="48" y="86" font-size="10" text-anchor="middle" fill="#BDEDE3">Spring</text>
+    </g>
+
+    <!-- Docker whale -->
+    <g transform="translate(240,0)">
+      <rect x="0" y="0" width="96" height="96" rx="12" fill="#021926" opacity="0.20" />
+      <text x="48" y="56" font-size="22" text-anchor="middle">🐳</text>
+      <text x="48" y="86" font-size="10" text-anchor="middle" fill="#BDEDE3">Docker</text>
+    </g>
+  </g>
+
+  <!-- footer small text -->
+  <text x="60" y="300" font-size="11" fill="#7FBCC0">Wellington • Back-End Java • github.com/wellingtonadonai</text>
+
+</svg>
+
+</body>
+</html>
 
 ## 🚀 Principais Tecnologias
 
