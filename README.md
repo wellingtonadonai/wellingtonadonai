@@ -118,7 +118,7 @@
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=wellingtonadonai&repo=dscatalogSpring&theme=radical&border_color=4CAF50&border_radius=10" />
 </a>
 <a href="https://github.com/wellingtonadonai/Projeeto_microsservi-os">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=wellingtonadonai&repo=microsserviços-RabbitMQ-Java&theme=tokyonight&border_color=00BFFF&border_radius=10" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=wellingtonadonai&repo=microsserviçosRabbitMQ&theme=tokyonight&border_color=00BFFF&border_radius=10" />
 </a>
 
 ---
