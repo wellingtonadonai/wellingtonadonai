@@ -29,7 +29,7 @@
 
 #### 🟢 **APIs e Microsserviços (Java & Spring Boot)**
 
-[![Microsserviços RabbitMq](https://github-readme-stats.vercel.app/api/pin/?username=wellingtonadonai\&repo=RabbitMq\&theme=dark)](https://github.com/wellingtonadonai/Projeeto_microsservi-os)
+[![Projeeto_microsservi-os](https://github-readme-stats.vercel.app/api/pin/?username=wellingtonadonai\&repo=RabbitMq\&theme=dark)](https://github.com/wellingtonadonai/Projeeto_microsservi-os)
 
 
 #### 🧩 **Projetos de Lógica e Estudos Java**
