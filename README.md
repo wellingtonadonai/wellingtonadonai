@@ -29,11 +29,12 @@
 
 #### 🟢 **APIs e Microsserviços (Java & Spring Boot)**
 
-[![dscatalogSpring](https://github-readme-stats.vercel.app/api/pin/?username=wellingtonadonai\&repo=dscatalogSpring\&theme=dark)](https://github.com/wellingtonadonai/dscatalogSpring)
+[![dscatalogSpring](https://github-readme-stats.vercel.app/api/pin/?username=wellingtonadonai\&repo=MicrosserviçosRabbitMQ\&theme=dark)](https://github.com/wellingtonadonai/Projeeto_microsservi-os)
 
 
 #### 🧩 **Projetos de Lógica e Estudos Java**
 
+[![dscatalogSpring](https://github-readme-stats.vercel.app/api/pin/?username=wellingtonadonai\&repo=dscatalogSpring\&theme=dark)](https://github.com/wellingtonadonai/dscatalogSpring)
 [![Simulação Bancária](https://github-readme-stats.vercel.app/api/pin/?username=wellingtonadonai\&repo=SimulacaodeContaBancaria-Java\&theme=dark)](https://github.com/wellingtonadonai/SimulacaodeContaBancaria-Java)
 [![Validação de Dados](https://github-readme-stats.vercel.app/api/pin/?username=wellingtonadonai\&repo=SistemadeValidacao-ProcessoSeletivo\&theme=dark)](https://github.com/wellingtonadonai/SistemadeValidacao-ProcessoSeletivo)
 [![Jogo Ping Pong](https://github-readme-stats.vercel.app/api/pin/?username=wellingtonadonai\&repo=Jogo-Ping-Pong\&theme=dark)](https://github.com/wellingtonadonai/Jogo-Ping-Pong)
