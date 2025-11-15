@@ -117,14 +117,15 @@
 <a href="https://github.com/wellingtonadonai/dscatalogSpring">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=wellingtonadonai&repo=dscatalogSpring&theme=radical&border_color=4CAF50&border_radius=10" />
 </a>
+<a href="https://github.com/wellingtonadonai/Projeeto_microsservi-os">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=wellingtonadonai&repo=SimulacaodeContaBancaria-Java&theme=tokyonight&border_color=00BFFF&border_radius=10" />
+</a>
 
 ---
 
 ### 🧩 Projetos de Lógica e Estudos Java
 
-<a href="https://github.com/wellingtonadonai/SimulacaodeContaBancaria-Java">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=wellingtonadonai&repo=SimulacaodeContaBancaria-Java&theme=tokyonight&border_color=00BFFF&border_radius=10" />
-</a>
+
 <a href="https://github.com/wellingtonadonai/SistemadeValidacao-ProcessoSeletivo">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=wellingtonadonai&repo=SistemadeValidacao-ProcessoSeletivo&theme=tokyonight&border_color=00BFFF&border_radius=10" />
 </a>
