@@ -21,8 +21,6 @@
 ### 📊 Estatísticas no GitHub
 
 [![Followers](https://img.shields.io/github/followers/wellingtonadonai?label=Seguidores&style=for-the-badge)](https://github.com/wellingtonadonai)
-[![Public Repos](https://img.shields.io/github/repo-count/wellingtonadonai?style=for-the-badge)](https://github.com/wellingtonadonai)
-
 [![Top Langs](https://img.shields.io/badge/Top%20Langs-Java%2C%20JavaScript-lightgrey?style=for-the-badge&logo=github)](https://github.com/wellingtonadonai)
 
 
