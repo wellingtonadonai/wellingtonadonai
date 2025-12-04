@@ -27,23 +27,20 @@
 
 ### 🧪 Projetos em Destaque
 
-#### 🟢 **APIs e Microsserviços (Java & Spring Boot)**
+#### 🟢 APIs e Microsserviços (Java & Spring Boot)
 
-[![Microsserviços Usando RabbitMQ](https://github-readme-stats.vercel.app/api/pin/?username=wellingtonadonai&repo=Microsservicos-com-RabbitMQ&theme=dark)](https://github.com/wellingtonadonai/Microsservicos-com-RabbitMQ)
+[![Microsserviços Usando RabbitMQ](https://img.shields.io/badge/Microsservicos_com_RabbitMQ-000?style=for-the-badge&logo=github)](https://github.com/wellingtonadonai/Microsservicos-com-RabbitMQ)
 
+#### 🧩 Projetos de Lógica e Estudos Java
 
+[![dscatalogSpring](https://img.shields.io/badge/dscatalogSpring-000?style=for-the-badge&logo=github)](https://github.com/wellingtonadonai/dscatalogSpring)
 
+[![Simulação Bancária](https://img.shields.io/badge/Simulacao_de_Conta_Bancaria-000?style=for-the-badge&logo=github)](https://github.com/wellingtonadonai/SimulacaodeContaBancaria-Java)
 
+[![Validação de Dados](https://img.shields.io/badge/Sistema_de_Validacao-000?style=for-the-badge&logo=github)](https://github.com/wellingtonadonai/SistemadeValidacao-ProcessoSeletivo)
 
-#### 🧩 **Projetos de Lógica e Estudos Java**
+[![Jogo Ping Pong](https://img.shields.io/badge/Jogo_Ping_Pong-000?style=for-the-badge&logo=github)](https://github.com/wellingtonadonai/Jogo-Ping-Pong)
 
-[![dscatalogSpring](https://github-readme-stats.vercel.app/api/pin/?username=wellingtonadonai&repo=dscatalogSpring&theme=dark)](https://github.com/wellingtonadonai/dscatalogSpring)
-
-[![Simulação Bancária](https://github-readme-stats.vercel.app/api/pin/?username=wellingtonadonai&repo=SimulacaodeContaBancaria-Java&theme=dark)](https://github.com/wellingtonadonai/SimulacaodeContaBancaria-Java)
-
-[![Validação de Dados](https://github-readme-stats.vercel.app/api/pin/?username=wellingtonadonai&repo=SistemadeValidacao-ProcessoSeletivo&theme=dark)](https://github.com/wellingtonadonai/SistemadeValidacao-ProcessoSeletivo)
-
-[![Jogo Ping Pong](https://github-readme-stats.vercel.app/api/pin/?username=wellingtonadonai&repo=Jogo-Ping-Pong&theme=dark)](https://github.com/wellingtonadonai/Jogo-Ping-Pong)
 
 
 ---
