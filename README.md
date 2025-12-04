@@ -29,17 +29,22 @@
 
 #### 🟢 **APIs e Microsserviços (Java & Spring Boot)**
 
-[![Microsserviços Usando RabbitMQ](https://github-readme-stats.vercel.app/api/pin/?username=wellingtonadonai&repo=Microsservi-os-com-RabbitMQ&theme=dark)](https://github.com/wellingtonadonai/Microsservi-os-com-RabbitMQ)
+[![Microsserviços Usando RabbitMQ](https://github-readme-stats.vercel.app/api/pin/?username=wellingtonadonai&repo=Microsservicos-com-RabbitMQ&theme=dark)](https://github.com/wellingtonadonai/Microsservicos-com-RabbitMQ)
+
 
 
 
 
 #### 🧩 **Projetos de Lógica e Estudos Java**
 
-[![dscatalogSpring](https://github-readme-stats.vercel.app/api/pin/?username=wellingtonadonai\&repo=dscatalogSpring\&theme=dark)](https://github.com/wellingtonadonai/dscatalogSpring)
-[![Simulação Bancária](https://github-readme-stats.vercel.app/api/pin/?username=wellingtonadonai\&repo=SimulacaodeContaBancaria-Java\&theme=dark)](https://github.com/wellingtonadonai/SimulacaodeContaBancaria-Java)
-[![Validação de Dados](https://github-readme-stats.vercel.app/api/pin/?username=wellingtonadonai\&repo=SistemadeValidacao-ProcessoSeletivo\&theme=dark)](https://github.com/wellingtonadonai/SistemadeValidacao-ProcessoSeletivo)
-[![Jogo Ping Pong](https://github-readme-stats.vercel.app/api/pin/?username=wellingtonadonai\&repo=Jogo-Ping-Pong\&theme=dark)](https://github.com/wellingtonadonai/Jogo-Ping-Pong)
+[![dscatalogSpring](https://github-readme-stats.vercel.app/api/pin/?username=wellingtonadonai&repo=dscatalogSpring&theme=dark)](https://github.com/wellingtonadonai/dscatalogSpring)
+
+[![Simulação Bancária](https://github-readme-stats.vercel.app/api/pin/?username=wellingtonadonai&repo=SimulacaodeContaBancaria-Java&theme=dark)](https://github.com/wellingtonadonai/SimulacaodeContaBancaria-Java)
+
+[![Validação de Dados](https://github-readme-stats.vercel.app/api/pin/?username=wellingtonadonai&repo=SistemadeValidacao-ProcessoSeletivo&theme=dark)](https://github.com/wellingtonadonai/SistemadeValidacao-ProcessoSeletivo)
+
+[![Jogo Ping Pong](https://github-readme-stats.vercel.app/api/pin/?username=wellingtonadonai&repo=Jogo-Ping-Pong&theme=dark)](https://github.com/wellingtonadonai/Jogo-Ping-Pong)
+
 
 ---
 
