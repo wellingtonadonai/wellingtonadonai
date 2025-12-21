@@ -33,6 +33,10 @@
 [![Microsserviços com RabbitMQ](https://img.shields.io/badge/Microsservicos%20com%20RabbitMQ-000?style=for-the-badge&logo=rabbitmq)](https://github.com/wellingtonadonai/Microsservi-os-com-RabbitMQ) 
 
 [![BFF Agendador](https://img.shields.io/badge/BFF-Agendador_de_Tarefas-000?style=for-the-badge&logo=springboot)](https://github.com/wellingtonadonai/Bff-agendador-tarefas)
+[![Notificacao Email](https://img.shields.io/badge/Notificacao-Email-000?style=for-the-badge&logo=springboot)](https://github.com/wellingtonadonai/Notificacao-email)
+[![Agendador de Tarefas](https://img.shields.io/badge/Agendador-Tarefas-6DB33F?style=for-the-badge&logo=springboot)](https://github.com/wellingtonadonai/Agendador-terefas)
+[![Usuario API](https://img.shields.io/badge/Usuario-API-6DB33F?style=for-the-badge&logo=springboot)](https://github.com/wellingtonadonai/usuario)
+
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot)
