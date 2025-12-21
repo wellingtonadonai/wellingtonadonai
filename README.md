@@ -46,13 +46,17 @@
 
 #### 🧩 Projetos de Lógica e Estudos Java
 
-[![dscatalogSpring](https://img.shields.io/badge/dscatalogSpring-000?style=for-the-badge&logo=github)](https://github.com/wellingtonadonai/dscatalogSpring)
+[![DSCatalog Spring](https://img.shields.io/badge/DSCatalog-Spring-0A0A0A?style=for-the-badge&logo=springboot)](https://github.com/wellingtonadonai/dscatalogSpring)
+[![Simulação Bancária](https://img.shields.io/badge/Simulacao-Conta_Bancaria-0A0A0A?style=for-the-badge&logo=java)](https://github.com/wellingtonadonai/SimulacaodeContaBancaria-Java)
+[![Sistema de Validação](https://img.shields.io/badge/Sistema-Validacao_de_Dados-0A0A0A?style=for-the-badge&logo=java)](https://github.com/wellingtonadonai/SistemadeValidacao-ProcessoSeletivo)
+[![Jogo Ping Pong](https://img.shields.io/badge/Jogo-Ping_Pong-0A0A0A?style=for-the-badge&logo=github)](https://github.com/wellingtonadonai/Jogo-Ping-Pong)
+[![Minha API Security](https://img.shields.io/badge/API-Security-0A0A0A?style=for-the-badge&logo=springsecurity)](https://github.com/wellingtonadonai/MinhaApiSecurity)
 
-[![Simulação Bancária](https://img.shields.io/badge/Simulacao_de_Conta_Bancaria-000?style=for-the-badge&logo=github)](https://github.com/wellingtonadonai/SimulacaodeContaBancaria-Java)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot)
+![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=springsecurity)
+![JWT](https://img.shields.io/badge/JWT-Authentication-blue?style=for-the-badge)
 
-[![Validação de Dados](https://img.shields.io/badge/Sistema_de_Validacao-000?style=for-the-badge&logo=github)](https://github.com/wellingtonadonai/SistemadeValidacao-ProcessoSeletivo)
-
-[![Jogo Ping Pong](https://img.shields.io/badge/Jogo_Ping_Pong-000?style=for-the-badge&logo=github)](https://github.com/wellingtonadonai/Jogo-Ping-Pong)
 
 
 
