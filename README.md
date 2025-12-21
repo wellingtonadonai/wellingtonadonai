@@ -30,7 +30,14 @@
 
 #### 🟢 APIs e Microsserviços (Java & Spring Boot)
 
-[![Microsserviços com RabbitMQ](https://img.shields.io/badge/Microsservicos%20com%20RabbitMQ-000?style=for-the-badge&logo=rabbitmq)](https://github.com/wellingtonadonai/Microsservi-os-com-RabbitMQ)
+[![Microsserviços com RabbitMQ](https://img.shields.io/badge/Microsservicos%20com%20RabbitMQ-000?style=for-the-badge&logo=rabbitmq)](https://github.com/wellingtonadonai/Microsservi-os-com-RabbitMQ) 
+
+[![BFF Agendador](https://img.shields.io/badge/BFF-Agendador_de_Tarefas-000?style=for-the-badge&logo=springboot)](https://github.com/wellingtonadonai/Bff-agendador-tarefas)
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot)
+![Feign Client](https://img.shields.io/badge/Feign_Client-6DB33F?style=for-the-badge&logo=spring)
+
 
 
 #### 🧩 Projetos de Lógica e Estudos Java
