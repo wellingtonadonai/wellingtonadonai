@@ -30,7 +30,7 @@
 
 #### 🟢 APIs e Microsserviços (Java & Spring Boot)
 
-[![Microsserviços Usando RabbitMQ](https://img.shields.io/badge/Microsservicos_com_RabbitMQ-000?style=for-the-badge&logo=github)](https://github.com/wellingtonadonai/Microsservicos-com-RabbitMQ)
+[![Microsserviços com RabbitMQ](https://img.shields.io/badge/Microsserviços%20com%20RabbitMQ-000?style=for-the-badge&logo=github)](https://github.com/wellingtonadonai/Microsservicos-com-RabbitMQ)
 
 #### 🧩 Projetos de Lógica e Estudos Java
 
