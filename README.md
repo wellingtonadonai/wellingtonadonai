@@ -45,6 +45,7 @@ Atualmente curso **Análise e Desenvolvimento de Sistemas (Uniasselvi)** e me es
 [![Agendador](https://img.shields.io/badge/Agendador-Tarefas-000?style=for-the-badge&logo=springboot)](https://github.com/wellingtonadonai/Agendador-terefas)
 [![Usuario API](https://img.shields.io/badge/Usuario-API-000?style=for-the-badge&logo=springboot)](https://github.com/wellingtonadonai/usuario)
 [![Notificacao Email](https://img.shields.io/badge/Notificacao-Email-000?style=for-the-badge&logo=springboot)](https://github.com/wellingtonadonai/Notificacao-email)
+[![Franchise Microservices](https://img.shields.io/badge/Microsservicos-Kafka-000?style=for-the-badge&logo=apachekafka)](https://github.com/wellingtonadonai/food-franchise-microservices)
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot)
