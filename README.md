@@ -36,16 +36,21 @@ Atualmente curso **Análise e Desenvolvimento de Sistemas (Uniasselvi)** e me es
 
 ---
 
-## 🧪 Projetos em Destaque
-
 ### 🔹 APIs e Microsserviços (Java & Spring Boot)
 
-[![Microsservicos RabbitMQ](https://img.shields.io/badge/Microsservicos-RabbitMQ-000?style=for-the-badge&logo=rabbitmq)](https://github.com/wellingtonadonai/Microsservi-os-com-RabbitMQ)
-[![BFF Agendador](https://img.shields.io/badge/BFF-Agendador_de_Tarefas-000?style=for-the-badge&logo=springboot)](https://github.com/wellingtonadonai/Bff-agendador-tarefas)
-[![Agendador](https://img.shields.io/badge/Agendador-Tarefas-000?style=for-the-badge&logo=springboot)](https://github.com/wellingtonadonai/Agendador-terefas)
-[![Usuario API](https://img.shields.io/badge/Usuario-API-000?style=for-the-badge&logo=springboot)](https://github.com/wellingtonadonai/usuario)
-[![Notificacao Email](https://img.shields.io/badge/Notificacao-Email-000?style=for-the-badge&logo=springboot)](https://github.com/wellingtonadonai/Notificacao-email)
-[![Franchise Microservices](https://img.shields.io/badge/Microsservicos-Kafka-000?style=for-the-badge&logo=apachekafka)](https://github.com/wellingtonadonai/food-franchise-microservices)
+## 🚀 Projetos em Destaque
+
+[![Kafka Microsservices](https://img.shields.io/badge/Kafka-Microsservices-black?style=for-the-badge&logo=apachekafka)](https://github.com/wellingtonadonai/food-franchise-microservices)
+
+[![RabbitMQ Microsservices](https://img.shields.io/badge/RabbitMQ-Microsservices-ff6600?style=for-the-badge&logo=rabbitmq&logoColor=white)](https://github.com/wellingtonadonai/Microsservi-os-com-RabbitMQ)
+
+[![BFF Scheduler](https://img.shields.io/badge/BFF-Scheduler-6c63ff?style=for-the-badge&logo=springboot&logoColor=white)](https://github.com/wellingtonadonai/Bff-agendador-tarefas)
+
+[![Task Scheduler](https://img.shields.io/badge/API-Task_Scheduler-009688?style=for-the-badge&logo=java&logoColor=white)](https://github.com/wellingtonadonai/Agendador-terefas)
+
+[![User API](https://img.shields.io/badge/Auth-User_API-1976d2?style=for-the-badge&logo=springsecurity&logoColor=white)](https://github.com/wellingtonadonai/usuario)
+
+[![Email Notification](https://img.shields.io/badge/Notification-Email_Service-d32f2f?style=for-the-badge&logo=gmail&logoColor=white)](https://github.com/wellingtonadonai/Notificacao-email)
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot)
