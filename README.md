@@ -2,7 +2,7 @@
 
 🎯 **Desenvolvedor Back-End Java**, focado na criação de **APIs REST**, **microsserviços** e soluções **escaláveis**.  
 Em transição de carreira, encontrei na tecnologia a oportunidade de transformar ideias em código.  
-Atualmente curso **Análise e Desenvolvimento de Sistemas (Uniasselvi)** e me especializo em **Java com Spring Boot (EBAC)**.
+Formado em **Análise e Desenvolvimento de Sistemas (Uniasselvi)** e me especializo em **Java com Spring Boot (EBAC)**.
 
 ---
 
